@@ -1,5 +1,6 @@
 /*
 * 咸鱼教程第一课DES加密跟Base64加密
+* python实现加密链接https://github.com/dhfjcuff/R-A-M-D-D3-S-M-H/blob/master/RSA-AES-MD5-DES-DES3-MD5-SHA-HMAC.py
 * */
 // DES加密
 var CryptoJS = require("crypto-js");
